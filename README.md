@@ -1,4 +1,4 @@
-# This repository is basically to uplaod my assignments of PWSkills - Data Science Course 
+# This repository is basically to uplaod my assignments 
 EAT-SLEEP-CODE-REPEAT
 
 #Keepcoding
